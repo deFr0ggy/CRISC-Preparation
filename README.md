@@ -9,6 +9,8 @@ The folders are divided in the same manner as the course is designed.
 4. Domain 3
 5. Domain 4
 
+If you are having issues navigating this repo, you can simply download the 7ZIP file, extract it and open it in your favourite note-taking application. Well, I will prefer using **Obsidian**! 
+
 The course can be enrolled into for this month only i.e. March 2021.
 
 https://app.cybrary.it/browse/course/crisc?queryID=817e7b40d3c0bd64d97d2e58fdddab29&objectID=8711
